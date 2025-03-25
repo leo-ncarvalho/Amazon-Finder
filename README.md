@@ -19,7 +19,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
 ### 1. Clone o repositório
 
 Clone o repositório para sua máquina local:
-https://github.com/seu-usuario/amazon-finder.git
+https://github.com/leo-ncarvalho/Amazon-Finder.git
 
 2. Navegue até a pasta do projeto
 cd amazon-finder
