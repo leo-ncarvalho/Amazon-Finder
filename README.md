@@ -5,7 +5,6 @@ Procure produtos na Amazon fácil
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Node.js, Express, Axios
-- **API de raspagem:** Amazon scraping via backend
 
 ## Pré-requisitos
 
